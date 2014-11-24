@@ -27,7 +27,7 @@ body {
 
 
 #trippy h1{
-//        vertical-align: middle;
+     /* vertical-align: middle; */
 	color: #e6dfc1;
 	text-transform: uppercase;
 	font-size: 8em;
